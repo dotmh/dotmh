@@ -3,7 +3,7 @@
 Martin AKA DotMH
 ================
 
-Anime, Manga, KPOP, JPOP & Music Fan. Inspired by #Japan, #Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
+Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
 
 - __Web__ : <https://www.dotmh.io>
 - __Twitter__: [@dotmhio](https://www.twitter.com/dotmhio)
