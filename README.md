@@ -28,3 +28,9 @@ Rust and Python for IoT and Raspberry PI development
 <a href="https://github.com/dotmh/lambda-controller"><img src="https://raw.githubusercontent.com/dotmh/lambda-controller/master/logo.svg" alt="Lambda Controller" width="32%"></a> &nbsp;
 <a href="https://github.com/dotmh/dyn-o-might"><img src="https://github.com/dotmh/dyn-o-might/raw/master/logo.svg?sanitize=true" width="32%" alt="Dyn-O-Might"></a> &nbsp;
 <a href="https://github.com/dotmh/ghostline"><img src="https://github.com/dotmh/ghostline/raw/master/Logo.svg" width="32%" alt="Ghostline"></a>
+
+__A Note on Projects__
+
+All projects under version 1 are considered as early release and are not guaranteed to work , or have tests
+
+All projects are licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0) unless otherwise stated
