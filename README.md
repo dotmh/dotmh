@@ -11,6 +11,9 @@ Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyb
 - __LinkedIn__ [in/dotmh](https://www.linkedin.com/in/dotmh/)
 - __BeHance__ [dotmh](https://www.behance.net/dotmh)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotmh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🔭 I’m currently working on
 ----------------------------
 
