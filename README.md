@@ -44,6 +44,10 @@ Interested in Audio, Serverless, IoT / Raspberry PI.
 Mostly learning the web audio API and Digital Signal Processing in general.
 Would like to learn more [Rust lang](https://www.rust-lang.org) especially around Web Assembly
 
+![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
+![WASM](https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=WebAssembly&logoColor=white)
+
+
 💽 Projects
 -----------
 
