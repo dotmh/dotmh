@@ -27,6 +27,7 @@ Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyb
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500.svg?style=for-the-badge&logo=Sketch&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C.svg?style=for-the-badge&logo=Apple-Music&logoColor=white)
@@ -46,7 +47,8 @@ Would like to learn more [Rust lang](https://www.rust-lang.org) especially aroun
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=WebAssembly&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 💽 Projects
 -----------
