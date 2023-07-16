@@ -32,6 +32,9 @@ Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyb
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?style=for-the-badge&logo=AWS-Lambda&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C.svg?style=for-the-badge&logo=Apple-Music&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 🔭 I’m currently working on
 ----------------------------
@@ -42,12 +45,14 @@ Interested in Audio, Serverless, IoT / Raspberry PI.
 🌱 I’m currently learning
 --------------------------
 
-Mostly learning the web audio API and Digital Signal Processing in general.
-Would like to learn more [Rust lang](https://www.rust-lang.org) especially around Web Assembly
+I am constantly learning and trying new technologies. Some of the things that I am playing with are
 
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WebAssembly-654FF0.svg?style=for-the-badge&logo=WebAssembly&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 💽 Projects
 -----------
