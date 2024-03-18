@@ -55,26 +55,4 @@ I am constantly learning and trying new technologies. Some of the things that I 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-💽 Projects
------------
-
-<a href="https://github.com/dotmh/lambda-controller"><img src="https://raw.githubusercontent.com/dotmh/lambda-controller/master/logo.svg" alt="Lambda Controller" width="32%"></a> &nbsp;
-<a href="https://github.com/dotmh/dyn-o-might"><img src="https://github.com/dotmh/dyn-o-might/raw/master/logo.svg?sanitize=true" width="32%" alt="Dyn-O-Might"></a> &nbsp;
-<a href="https://github.com/dotmh/ghostline"><img src="https://github.com/dotmh/ghostline/raw/master/Logo.svg" width="32%" alt="Ghostline"></a>
-
-### .Dev Projects
-![DotMH.dev](https://content.dotmh.io/dev/dev.svg)
-
-.Dev projects are smaller projects that are mostly experimental. 
-
-- [@dotmh/tick](https://github.com/dotmh/tick) Tick is a library to make polling loops easier 
-- [@dotmh/dctf](https://github.com/dotmh/dctf) DotMH Common Time Functions is a library to make working with time easier. 
-- [@dotmh/myhero](https://github.com/dotmh/MyHero) A Library for making web components
-
-__A Note on Projects__
-
-All projects under version 1 are considered as early release and are not guaranteed to work , or have tests
-
-All projects are licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0) unless otherwise stated
-
 
