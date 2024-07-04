@@ -3,6 +3,8 @@
 Martin AKA DotMH
 ================
 
+[![wakatime](https://wakatime.com/badge/user/ea883e2b-1d18-4e06-9982-933661781666.svg?style=for-the-badge)](https://wakatime.com/@ea883e2b-1d18-4e06-9982-933661781666)
+
 Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
 
 - __Web__ : <https://www.dotmh.io>
