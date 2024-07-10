@@ -5,7 +5,7 @@ Martin AKA DotMH
 
 [![wakatime](https://wakatime.com/badge/user/ea883e2b-1d18-4e06-9982-933661781666.svg?style=for-the-badge)](https://wakatime.com/@ea883e2b-1d18-4e06-9982-933661781666)
 
-Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
+Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
 
 - __Web__ : <https://www.dotmh.io>
 - __NPM__: [@dotmh](https://www.npmjs.com/dotmh)
@@ -43,6 +43,14 @@ Anime, Manga, KPOP, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyb
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C.svg?style=for-the-badge&logo=Apple-Music&logoColor=white)
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+
+
 
 🔭 I’m currently working on
 ----------------------------
