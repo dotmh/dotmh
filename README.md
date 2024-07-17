@@ -55,8 +55,8 @@ Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci
 🔭 I’m currently working on
 ----------------------------
 
-Mostly building with Javascript for Web, Server, Desktop and Mobile. 
-Interested in Audio, Serverless, IoT / Raspberry PI. 
+I mostly build with Typescript for web, server, desktop, and mobile. 
+Interested in Video Games, Audio, IoT / Raspberry PI. 
 
 🌱 I’m currently learning
 --------------------------
