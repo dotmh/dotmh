@@ -71,7 +71,7 @@ For the next 3 months, starting in February, I am going to be exploring
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 
-🤩 Thins, I find Awesome
+🤩 Things, I find Awesome
 -----------------------
 
 In the spirit of other Awesome lists, I put together a list of things I find Awesome
