@@ -10,8 +10,8 @@ Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci
 - __Web__ : <https://www.dotmh.io>
 - __NPM__: [@dotmh](https://www.npmjs.com/dotmh)
 - __LinkedIn__ [in/dotmh](https://www.linkedin.com/in/dotmh/)
-- __BeHance__ [dotmh](https://www.behance.net/dotmh)
-
+- __Bluesky__ [@dotmh.dev](https://bsky.app/profile/dotmh.dev)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotmh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 👨‍💻 Technology
@@ -65,13 +65,13 @@ Interested in Video Games, Audio, IoT / Raspberry PI.
 
 I am constantly learning and trying new technologies.
 
-For the next 3 months, starting in February, I am going to be exploring 
+I will be exploring for the next 3 months, starting in February. 
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
 
-🤩 Things, I find Awesome
+🤩 Things I find awesome
 -----------------------
 
 In the spirit of other Awesome lists, I put together a list of things I find Awesome
