@@ -7,7 +7,7 @@ Martin AKA DotMH
 
 Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
 
-- __Web__: <https://www.dotmh.io>
+- __Web__: <https://www.dotmh.dev>
 - __Articles__: <https://articles.dotmh.dev>
 - __NPM__: [@dotmh](https://www.npmjs.com/dotmh)
 - __LinkedIn__: [in/dotmh](https://www.linkedin.com/in/dotmh/)
