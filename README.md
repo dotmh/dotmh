@@ -12,8 +12,6 @@ Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci
 - __NPM__: [@dotmh](https://www.npmjs.com/dotmh)
 - __LinkedIn__: [in/dotmh](https://www.linkedin.com/in/dotmh/)
 - __Bluesky__: [@dotmh.dev](https://bsky.app/profile/dotmh.dev)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dotmh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 👨‍💻 Technology
 -------------
