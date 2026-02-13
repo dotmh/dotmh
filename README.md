@@ -5,7 +5,9 @@ Martin AKA DotMH
 
 [![wakatime](https://wakatime.com/badge/user/ea883e2b-1d18-4e06-9982-933661781666.svg?style=for-the-badge)](https://wakatime.com/@ea883e2b-1d18-4e06-9982-933661781666)
 
-Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci & Cyberpunk. Web Developer & Designer
+Music Fan and Maker. Fan of Videogames, Anime and inspired by Japan, Korea, SciFi, Science, Retro Tech & Cyberpunk. 
+
+Web Developer & Designer by Trade! 
 
 - __Web__: <https://www.dotmh.dev>
 - __Articles__: <https://articles.dotmh.dev>
@@ -62,9 +64,8 @@ Anime, Manga, Videogames, JPOP & Music Fan. Inspired by Japan, Korea, SciFi, Sci
 ----------------------------
 
 I mostly build with Typescript for web, server, desktop, and mobile. 
-Interested in Video Games, Audio, IoT / Raspberry PI. 
+Interested in Music, Audio, Videogames and IoT / Raspberry Pi
 
-🌱 I’m currently learning
 --------------------------
 
 I am constantly learning and trying new technologies.
