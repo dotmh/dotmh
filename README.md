@@ -66,6 +66,7 @@ Web Developer & Designer by Trade!
 I mostly build with Typescript for web, server, desktop, and mobile. 
 Interested in Music, Audio, Videogames and IoT / Raspberry Pi
 
+🌱 I’m currently learning
 --------------------------
 
 I am constantly learning and trying new technologies.
