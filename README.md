@@ -97,3 +97,7 @@ In the spirit of other Awesome lists, I put together a list of things I find Awe
 
 You can read more on reporting issues [SECURITY.md](./SECURITY.md)
 
+🦡 Badges
+---------
+
+Badges used in this README are provided by [Markdown Badges](https://ileriayo.github.io/markdown-badges/)
