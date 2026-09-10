@@ -81,9 +81,9 @@ Interested in Music, Audio, video games, and IoT / Raspberry Pi
 
 I am constantly learning and trying new technologies.
 
-As of April 2026, I have been focusing on developing skills in 
+My current focus is 
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 🤩 Things I find awesome
 -----------------------
