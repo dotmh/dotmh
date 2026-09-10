@@ -1,4 +1,4 @@
-[![DotMH](https://github.com/dotmh/dotmh/raw/master/logo.png)](https://www.dotmh.dev)
+[![DotMH](https://github.com/dotmh/dotmh/raw/master/dotmh-dev-header.png)](https://www.dotmh.dev)
 
 Martin AKA DotMH
 ================
