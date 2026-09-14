@@ -68,7 +68,7 @@ Web Developer & Designer by Trade!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-
+![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 🔭 I’m currently working on
 ----------------------------
