@@ -11,7 +11,7 @@ Web Developer & Designer by Trade!
 
 - __Web__: <https://www.dotmh.dev>
 - __Articles__: <https://articles.dotmh.dev>
-- __NPM__: [@dotmh](https://www.npmjs.com/dotmh)
+- __NPM__: [@dotmh](https://www.npmjs.com/~dotmh)
 - __LinkedIn__: [in/dotmh](https://www.linkedin.com/in/dotmh/)
 - __Bluesky__: [@dotmh.dev](https://bsky.app/profile/dotmh.dev)
 
