@@ -5,9 +5,9 @@ Martin AKA DotMH
 
 [![wakatime](https://wakatime.com/badge/user/ea883e2b-1d18-4e06-9982-933661781666.svg?style=for-the-badge)](https://wakatime.com/@ea883e2b-1d18-4e06-9982-933661781666)
 
-Music Fan and Maker. Fan of Videogames, Anime and inspired by Japan, Korea, SciFi, Science, Retro Tech & Cyberpunk. 
+Music Fan and Maker. Video game and anime fan, inspired by Japan, Korea, sci-fi, Science, retro tech, and cyberpunk. 
 
-Web Developer & Designer by Trade! 
+Lead Full-stack TypeScript Engineer by Trade! 
 
 - __Web__: <https://www.dotmh.dev>
 - __Articles__: <https://articles.dotmh.dev>
@@ -19,19 +19,16 @@ Web Developer & Designer by Trade!
 -------------
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
@@ -73,7 +70,7 @@ Web Developer & Designer by Trade!
 🔭 I’m currently working on
 ----------------------------
 
-I mostly build with Typescript for web, server, desktop, and mobile. 
+I mostly build with TypeScript for web, server, desktop, and mobile. 
 Interested in Music, Audio, video games, and IoT / Raspberry Pi
 
 🌱 I’m currently learning
